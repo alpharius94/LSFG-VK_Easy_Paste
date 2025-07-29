@@ -9,8 +9,9 @@
 #### LSFG-VK Release Page
 > <https://github.com/PancakeTAS/lsfg-vk/releases>
 <br />
+
 **스팀덱 유저 (.zst file)**   
-**For Steamdeck User (.zst file)**
+**For Steamdeck User (.zst file)**   
 > ```
 > sudo pacman -U ./lsfg-vk-XXX.tar.zst
 > ```
