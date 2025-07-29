@@ -15,7 +15,7 @@
 > ~/.local/share/vulkan/implicit_layer.d/VkLayer_LS_frame_generation.json
 > ```
 ---
-# LSFG
+# LSFG-VK
 ## LSFG-VK Download and Install
 #### 다운로드 페이지<br />LSFG-VK Release Page
 > <https://github.com/PancakeTAS/lsfg-vk/releases>
