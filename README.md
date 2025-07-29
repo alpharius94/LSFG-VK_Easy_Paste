@@ -1,5 +1,6 @@
 >[!NOTE]
-> This page for just help to easy installation lsfg-vk. **WIP.**
+>lsfg-vk 및 플러그인등을 쉽게 설치하기 위한 페이지입니다.   
+>This page for just help to easy installation lsfg-vk. **WIP.**
 
 >[!WARNING]
 >버전 0.9.0 부터는 더이상 user-wide installation 을 지원하지 않습니다.   
@@ -13,23 +14,17 @@
 >~/.local/share/vulkan/implicit_layer.d/VkLayer_LS_frame_generation.json
 >```
 
+## LSFG-VK Download and Install
 ---
-#### LSFG-VK Release Page
+#### LSFG-VK 다운로드 페이지<br />LSFG-VK Release Page
+
 > <https://github.com/PancakeTAS/lsfg-vk/releases>
-
-
-<br />
 <br />
 
-**.zst 파일 for 스팀덱 유저**<br />
-**.zst FILE for Steamdeck User**
+**.zst 파일 설치 for 스팀덱 유저<br />.zst FILE for Steamdeck User**
 > ```
 > sudo pacman -U ./lsfg-vk-XXX.tar.zst
 > ```
-
-<br />
-<br />
-<br />
 
 **if you downloaded the .deb file:**
 >```
@@ -54,6 +49,20 @@
 >```
 >unzip /path/to/lsfg-vk-XXX.zip
 >```
+<br />
+<br />
+
+
+# 덱키 로더<br />Decky Loader
+## 다운로드 및 설치 스크립트<br />Download and Install Script
+```
+curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/install_release.sh | sh
+```
+## 제거 스크립트<br />Uninstall Script
+```
+curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/uninstall.sh | sh
+```
+
 
 
 # Sample Code
