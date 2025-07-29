@@ -47,7 +47,7 @@ curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/dow
 curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/uninstall.sh | sh
 ```
 # 덱키 로더 LSFV-VK 플러그인<br />Decky Loader
-## 다운로드 및 설치 스크립트<br />Download and Install Script
+## 다운로드<br />Download and Install Script
 ```
 https://github.com/xXJSONDeruloXx/decky-lossless-scaling-vk/releases
 ```
