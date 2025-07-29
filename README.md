@@ -1,25 +1,32 @@
 >[!NOTE]
-> This page is just help to easy installation lsfg-vk.
+> This page is just help to easy installation lsfg-vk. **WIP.**
 
 >[!WARNING]
 > As of version 0.9.0, user-wide installations are not supported anymore! If you installed an older version of lsfg-vk, delete these files before proceding:   
-~/.local/lib/liblsfg-vk.so
-~/.local/share/vulkan/implicit_layer.d/VkLayer_LS_frame_generation.json
+>```
+>~/.local/lib/liblsfg-vk.so
+>```   
+>```
+>~/.local/share/vulkan/implicit_layer.d/VkLayer_LS_frame_generation.json
+>```
+
 ---
 #### LSFG-VK Release Page
 > <https://github.com/PancakeTAS/lsfg-vk/releases>
+
+
+<br />
 <br />
 
-**스팀덱 유저 (.zst file)**   
-**For Steamdeck User (.zst file)**   
+**.zst 파일 for 스팀덱 유저**<br />
+**.zst FILE for Steamdeck User**
 > ```
 > sudo pacman -U ./lsfg-vk-XXX.tar.zst
 > ```
 
-
-
-
-
+<br />
+<br />
+<br />
 
 **if you downloaded the .deb file:**
 >```
@@ -38,9 +45,12 @@
 
 **if you downloaded the generic .zip file:**
 **(keep track of where it unzips to for uninstalling!)**
-$ cd /usr/local
-$ unzip /path/to/lsfg-vk-XXX.zip
-
+>```
+>cd /usr/local
+>```
+>```
+>unzip /path/to/lsfg-vk-XXX.zip
+>```
 
 
 # Sample Code
