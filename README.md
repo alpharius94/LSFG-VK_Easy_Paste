@@ -6,13 +6,14 @@ TEST
 >
 >
 
-
-'''
-CODE COPY TEST
-'''
+# LSFG-VK Release Page
+<https://github.com/PancakeTAS/lsfg-vk/releases>
 
 
 
+
+# 스팀덱 유저 (.zst file)
+# For Steamdeck User (.zst file)
 ```
-CODE COPY TEST222
+sudo pacman -U ./lsfg-vk-XXX.tar.zst
 ```
