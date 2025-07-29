@@ -13,9 +13,7 @@ TEST
 
 스팀덱 유저 (.zst file)   
 For Steamdeck User (.zst file)
->```
-sudo pacman -U ./lsfg-vk-XXX.tar.zst
-```
+>```sudo pacman -U ./lsfg-vk-XXX.tar.zst```
 
 
 # Example headings
