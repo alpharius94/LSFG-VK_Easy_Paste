@@ -40,6 +40,4 @@
 
 # 덱키 로더 LSFV-VK 플러그인<br />Decky Loader LSFG-VK Plugin
 #### 다운로드<br />Download
-> ```
-> https://github.com/xXJSONDeruloXx/decky-lossless-scaling-vk/releases
-> ```
+> <https://github.com/xXJSONDeruloXx/decky-lossless-scaling-vk/releases>
