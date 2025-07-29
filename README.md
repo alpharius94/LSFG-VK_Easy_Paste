@@ -1,5 +1,5 @@
 > [!NOTE]
-> 스팀덱 유저가 lsfg-vk 및 플러그인등을 쉽게 설치하기 위한 페이지입니다.
+> 스팀덱 유저가 lsfg-vk 및 플러그인등을 쉽게 설치하기 위한 페이지입니다.   
 > This page for just help to easy installation lsfg-vk for Steamdeck User.   
 > **WIP.**
 
@@ -7,7 +7,7 @@
 > 버전 0.9.0 부터는 더이상 user-wide installation 을 지원하지 않습니다.   
 > As of version 0.9.0, user-wide installations are not supported anymore!   
 > 과거 버전을 설치했다면 다음 파일들을 삭제해주세요.   
-> If you installed an older version of lsfg-vk, delete these files before proceding:   
+> If you installed an older version of lsfg-vk, delete these files before proceding:
 > ```
 > ~/.local/lib/liblsfg-vk.so
 > ```   
