@@ -2,7 +2,9 @@
 > This page is just help to easy installation lsfg-vk. **WIP.**
 
 >[!WARNING]
-> As of version 0.9.0, user-wide installations are not supported anymore! If you installed an older version of lsfg-vk, delete these files before proceding:   
+> As of version 0.9.0, user-wide installations are not supported anymore!
+>과거 버전을 설치했다면 다음 파일들을 삭제해주세요.
+>If you installed an older version of lsfg-vk, delete these files before proceding:   
 >```
 >~/.local/lib/liblsfg-vk.so
 >```   
