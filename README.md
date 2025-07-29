@@ -1,5 +1,5 @@
 >[!NOTE]
-> This page is just help to easy installation lsfg-vk. **WIP.**
+> This page for just help to easy installation lsfg-vk. **WIP.**
 
 >[!WARNING]
 >버전 0.9.0 부터는 더이상 user-wide installation 을 지원하지 않습니다.   
